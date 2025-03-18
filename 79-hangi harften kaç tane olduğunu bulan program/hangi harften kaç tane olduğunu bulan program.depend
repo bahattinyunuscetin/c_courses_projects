@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733502453 source:c:\users\pc11\desktop\github\fehmi uyar\79-hangi harften kaç tane olduðunu bulan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

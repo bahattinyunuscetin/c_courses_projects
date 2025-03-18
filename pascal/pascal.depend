@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741004642 source:c:\users\pc11\desktop\github\fehmi uyar\pascal\main.c
+	<stdio.h>
+	<stdlib.h>
+

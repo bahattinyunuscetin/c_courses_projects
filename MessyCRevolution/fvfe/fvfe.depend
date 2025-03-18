@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1702972364 source:c:\users\pc11\desktop\c dersleri\fvfe\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mymath.h"
+
+1702970563 c:\users\pc11\desktop\c dersleri\fvfe\mymath.h
+

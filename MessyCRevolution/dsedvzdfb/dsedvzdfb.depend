@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1703600536 source:c:\users\pc11\desktop\c dersleri\dsedvzdfb\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"header.h"
+	"menu.h"
+	"phoneadd.h"
+	"phonelist.h"
+	"phonesearch.h"
+
+1703587054 c:\users\pc11\desktop\c dersleri\dsedvzdfb\header.h
+
+1703598523 c:\users\pc11\desktop\c dersleri\dsedvzdfb\menu.h
+
+1703600536 c:\users\pc11\desktop\c dersleri\dsedvzdfb\phoneadd.h
+
+1703600590 c:\users\pc11\desktop\c dersleri\dsedvzdfb\phonelist.h
+
+1703585882 c:\users\pc11\desktop\c dersleri\dsedvzdfb\phonesearch.h
+
